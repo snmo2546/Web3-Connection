@@ -14,5 +14,9 @@
   "dependencies": {
     "express": "^4.18.2",
     "express-handlebars": "^7.0.7"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
   }
 }
